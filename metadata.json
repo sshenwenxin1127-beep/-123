@@ -1,0 +1,8 @@
+{
+  "name": "宠爱脉动",
+  "description": "Comprehensive pet health management app with AI vet support, health records, food safety scans, and emergency help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
